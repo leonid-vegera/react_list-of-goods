@@ -1,0 +1,8 @@
+button:hover {
+  background-color: rgb(182, 228, 231);
+}
+
+button:active {
+  background-color: rgb(117, 180, 189);
+  font-weight: 700;
+}
