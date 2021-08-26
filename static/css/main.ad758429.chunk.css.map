@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACE,wBACF,CAEA,cACE,wBAAoC,CACpC,eACF","file":"main.ad758429.chunk.css","sourcesContent":["button:hover {\n  background-color: rgb(182, 228, 231);\n}\n\nbutton:active {\n  background-color: rgb(117, 180, 189);\n  font-weight: 700;\n}\n"]}
